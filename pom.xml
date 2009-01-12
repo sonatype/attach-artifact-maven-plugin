@@ -7,7 +7,7 @@
 	</parent>
 	
 	<artifactId>attach-artifact-maven-plugin</artifactId>
-	<version>1.0</version>
+	<version>1.1-SNAPSHOT</version>
 	<packaging>maven-plugin</packaging>
 
 	<build>
@@ -39,10 +39,4 @@
 			<version>1.0-alpha-7</version>
 		</dependency>
 	</dependencies>
-
-  <scm>
-    <connection>scm:svn:http://svn.sonatype.org/plugins/tags/attach-artifact-maven-plugin-1.0</connection>
-    <developerConnection>scm:svn:https://svn.sonatype.org/plugins/tags/attach-artifact-maven-plugin-1.0</developerConnection>
-    <url>http://svn.sonatype.org/plugins/tags/attach-artifact-maven-plugin-1.0</url>
-  </scm>
 </project>
