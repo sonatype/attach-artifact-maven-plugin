@@ -3,7 +3,7 @@
 	<parent>
 		<artifactId>plugins-parent</artifactId>
 		<groupId>org.sonatype.plugins</groupId>
-		<version>3</version>
+		<version>5-SNAPSHOT</version>
 	</parent>
 	
 	<artifactId>attach-artifact-maven-plugin</artifactId>
